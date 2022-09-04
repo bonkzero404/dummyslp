@@ -1,0 +1,1888 @@
+{
+    "status": 200,
+    "error": false,
+    "detail": "",
+    "message": "OK",
+    "data": [
+        {
+            "noaset": "0010100129",
+            "namaaset": "Abdul Hadi",
+            "alamat": "Jl.yos Sudarso No.102 Rt.005 Rw.002"
+        },
+        {
+            "noaset": "0010100046",
+            "namaaset": "Abdul Kahar",
+            "alamat": "Jl.tani Gg.seksama No.193 Rt/rw 04/i"
+        },
+        {
+            "noaset": "0010100043",
+            "namaaset": "Abdul Manaf",
+            "alamat": "Jl.bukit Tiga Rt.025 Rw.07"
+        },
+        {
+            "noaset": "0010200109",
+            "namaaset": "Abdullah Adieb",
+            "alamat": "Ds.jugo Rt.007 Rw.003"
+        },
+        {
+            "noaset": "0010200241",
+            "namaaset": "Abdussamad",
+            "alamat": "Jl.veteran Rt.036 Rw.05"
+        },
+        {
+            "noaset": "0010200014",
+            "namaaset": "Adang Suparman",
+            "alamat": "Jl.pahlawan Rt.020 Rw.09"
+        },
+        {
+            "noaset": "0010500265",
+            "namaaset": "Adi Suyitno",
+            "alamat": "Jl Jendral Sudirman No 15"
+        },
+        {
+            "noaset": "0010500146",
+            "namaaset": "Adnan Sajuri",
+            "alamat": "Jln Tanjung Batu Harapan No 94"
+        },
+        {
+            "noaset": "0010200118",
+            "namaaset": "Adrianus Sukamto",
+            "alamat": "Dusun Sasak Rt.003.rw.002"
+        },
+        {
+            "noaset": "0010100064",
+            "namaaset": "Adriati",
+            "alamat": "Dusun Teratai Rt.02 Rw.006"
+        },
+        {
+            "noaset": "0010300007",
+            "namaaset": "Agus Februantoro",
+            "alamat": "Jl.angkasa Rt.017 Rw.004"
+        },
+        {
+            "noaset": "0010100084",
+            "namaaset": "Agus Setiawan",
+            "alamat": "Jl. H.u Bawadi No.68 Rt.020"
+        },
+        {
+            "noaset": "0010100144",
+            "namaaset": "Agus Suryadi",
+            "alamat": "Jl Raya Sungai Bakau Besar"
+        },
+        {
+            "noaset": "0010100067",
+            "namaaset": "Agus Tiar Anwar",
+            "alamat": "Jl.btn Agung Lestari Blok D Rt.012 Rw.04"
+        },
+        {
+            "noaset": "0010200082",
+            "namaaset": "Agustinah",
+            "alamat": "Jl Padat Karya Rt007 Rw009"
+        },
+        {
+            "noaset": "0010200052",
+            "namaaset": "Agustinus Bambang Julianto",
+            "alamat": "Jl Chandramidi Rt.014 Rw.005"
+        },
+        {
+            "noaset": "0010500149",
+            "namaaset": "Alfazari",
+            "alamat": "Jln Demang Akub Komp Btn Griya Makmur Rt010 Rw001"
+        },
+        {
+            "noaset": "0010500210",
+            "namaaset": "Ali Musthofa Al Rosidi",
+            "alamat": "Jl.sepakat Ii No.30 Rt.15/rw.02"
+        },
+        {
+            "noaset": "0010200022",
+            "namaaset": "Amir Hamzah",
+            "alamat": "Jl.nenas No.44 Rt.059 Rw.13"
+        },
+        {
+            "noaset": "0010200046",
+            "namaaset": "Amiruddin",
+            "alamat": "Jl Gn Merapi Gg Warna No.41"
+        },
+        {
+            "noaset": "0010500244",
+            "namaaset": "Ana Fitia Sari",
+            "alamat": "Dusun Sidomulyo Rt 01 Rw 01"
+        },
+        {
+            "noaset": "0010200027",
+            "namaaset": "Ardi Nopolinus",
+            "alamat": "Dusun Maruba Rt.001 Rw.001"
+        },
+        {
+            "noaset": "0010500196",
+            "namaaset": "Ari Yuli Nugroho",
+            "alamat": "Sumberjo Rt026 Rw004"
+        },
+        {
+            "noaset": "0010200029",
+            "namaaset": "Aslinda",
+            "alamat": "Dusun Nelayan Rt.001 Rw.001"
+        },
+        {
+            "noaset": "0010100063",
+            "namaaset": "Asmadi As",
+            "alamat": "Jl.veteran Rt.035/04"
+        },
+        {
+            "noaset": "0010100091",
+            "namaaset": "Aspian Sahran",
+            "alamat": "Jl Trisula Rt.009 Rw.03"
+        },
+        {
+            "noaset": "0010100093",
+            "namaaset": "Atriyani",
+            "alamat": "Jl.pahlawan Rt.024 Rw.07"
+        },
+        {
+            "noaset": "0010500234",
+            "namaaset": "Ayu Widia Mandasari",
+            "alamat": "Jl Wonosari Rt 56 Rw 5"
+        },
+        {
+            "noaset": "0010500033",
+            "namaaset": "Azwam",
+            "alamat": "Dsn Parit Merdeka Rt021 Rw003"
+        },
+        {
+            "noaset": "0010500114",
+            "namaaset": "Baharuddin",
+            "alamat": "Jl.jend.sudirman Gg.aliaman Rt.006 Rw.002"
+        },
+        {
+            "noaset": "0010200247",
+            "namaaset": "Baharuddin",
+            "alamat": "Jl.jend.sudirman Gg.aliaman Rt.006 Rw.002"
+        },
+        {
+            "noaset": "0010100108",
+            "namaaset": "Barkat",
+            "alamat": "Jl.demang Akub Rt.025 Rw.013"
+        },
+        {
+            "noaset": "0010500233",
+            "namaaset": "Betti Wahyuri",
+            "alamat": "Dusun Kandasan Rt 006 Rw 005"
+        },
+        {
+            "noaset": "0010100449",
+            "namaaset": "Bocah Fajar Abdillah",
+            "alamat": "Jl.veteran No.17 Rt.034 Rw.04"
+        },
+        {
+            "noaset": "0010500181",
+            "namaaset": "Bona Zettira Stephanie",
+            "alamat": "Jl Saga Tani Saunbang Rt009 Rw002"
+        },
+        {
+            "noaset": "0010100099",
+            "namaaset": "Bong Kim Hin",
+            "alamat": "Jl.yos Sudarso No.64 Rt.10 Rw.iii"
+        },
+        {
+            "noaset": "0010200268",
+            "namaaset": "Bong Sauw Djung",
+            "alamat": "Jl.saman Bujang No.26 Rt.058 Rw.003"
+        },
+        {
+            "noaset": "0010500176",
+            "namaaset": "Budi Harta",
+            "alamat": "Dusun Tanjung Sari"
+        },
+        {
+            "noaset": "0010500177",
+            "namaaset": "Budi Harta",
+            "alamat": "Dusun Tanjung Sari"
+        },
+        {
+            "noaset": "0010500141",
+            "namaaset": "Budi Prayitno",
+            "alamat": "Dusun Tanjung Sari"
+        },
+        {
+            "noaset": "0010100074",
+            "namaaset": "Budiyadi",
+            "alamat": "Jl Pulau Belitung"
+        },
+        {
+            "noaset": "0010100027",
+            "namaaset": "Bun Fung Liong",
+            "alamat": "Jl.sungai Garam Hulu Rt.07 Rw.iii"
+        },
+        {
+            "noaset": "0010100078",
+            "namaaset": "Bunia",
+            "alamat": "Jalan Cempaka Nomor 08 Rt 013 Rw 005"
+        },
+        {
+            "noaset": "0010200287",
+            "namaaset": "Catur Budi Setiawan",
+            "alamat": "Jl Kacang No8 Rt.010 Rw04"
+        },
+        {
+            "noaset": "0010500174",
+            "namaaset": "Catur Budi Setiawan",
+            "alamat": "Jl Kacang No8 Rt.010 Rw04"
+        },
+        {
+            "noaset": "0010100048",
+            "namaaset": "Citra Mawarti",
+            "alamat": "Jl Siaga Rt.004 Rw.01"
+        },
+        {
+            "noaset": "0010500207",
+            "namaaset": "Danu Windy Heryadi",
+            "alamat": "Jl.mawar No.12 Rt.016 Rw.06"
+        },
+        {
+            "noaset": "0010500269",
+            "namaaset": "Dedek Mursadi",
+            "alamat": "Jl Pembangunan No 11c"
+        },
+        {
+            "noaset": "0010500007",
+            "namaaset": "Dedy Purnomo",
+            "alamat": "Jl Rambutan No.105"
+        },
+        {
+            "noaset": "0010200075",
+            "namaaset": "Deni Fitriadi",
+            "alamat": "Jl Pendidikan (aspol) Rt002 Rw003"
+        },
+        {
+            "noaset": "0010500252",
+            "namaaset": "Desi Gulita",
+            "alamat": "Jl.gunung Poteng No.36 Rt.041 Rw.015"
+        },
+        {
+            "noaset": "0010500019",
+            "namaaset": "Devi Zugiantari",
+            "alamat": "Teluk Karang Rt044 Rw07"
+        },
+        {
+            "noaset": "0010500063",
+            "namaaset": "Dila",
+            "alamat": "Jl Sepakat Rt015 Rw002"
+        },
+        {
+            "noaset": "0010200285",
+            "namaaset": "Dino Sukarno",
+            "alamat": "Jl.u Dahlan M Suka Gg Berdikari No 34"
+        },
+        {
+            "noaset": "0010500137",
+            "namaaset": "Dino Sukarno",
+            "alamat": "Jl.u Dahlan M Suka Gg Berdikari No 34"
+        },
+        {
+            "noaset": "0010200263",
+            "namaaset": "Dirmansyah",
+            "alamat": "Jln.selamat Gg.cempaka No.9 Rt.011 Rw.003"
+        },
+        {
+            "noaset": "0010200089",
+            "namaaset": "Djamaludin",
+            "alamat": "Jl Raden Kusno Btn Bhayangkara Blok H4"
+        },
+        {
+            "noaset": "0010100429",
+            "namaaset": "Djau Dji Tshai",
+            "alamat": "Gg.pak Murah No.74 Rt.020 Rw.008"
+        },
+        {
+            "noaset": "0010500184",
+            "namaaset": "Djie Cung Min",
+            "alamat": "Teluk Karang"
+        },
+        {
+            "noaset": "0010100427",
+            "namaaset": "Djulianto Tiono",
+            "alamat": "Komp.nusa Indah No.c8 Sungai Raya Dalam"
+        },
+        {
+            "noaset": "0010500043",
+            "namaaset": "Duwi Purnomo Hardi",
+            "alamat": "Jl Mawar Nok55 Rt007 Rw003"
+        },
+        {
+            "noaset": "0010100061",
+            "namaaset": "Dwi Astuti Handaya",
+            "alamat": "Jl.pramuka No.01 Rt.01 Rw.01"
+        },
+        {
+            "noaset": "0010500060",
+            "namaaset": "Dwi Setiyo Negoro",
+            "alamat": "Jl.masjid No.20 Rt.005 Rw.002"
+        },
+        {
+            "noaset": "0010200037",
+            "namaaset": "Eddy Saimin",
+            "alamat": "Jl Yos Sudarso Rt 05 Rw Ii"
+        },
+        {
+            "noaset": "0010200034",
+            "namaaset": "Edi Setiawan Maulana",
+            "alamat": "Dusun Kembang Sari Rt.03 Rw.09"
+        },
+        {
+            "noaset": "0010500100",
+            "namaaset": "Edwin Edzuardy",
+            "alamat": "Jl.padat Karya Rt.007 Rw.002"
+        },
+        {
+            "noaset": "0010200291",
+            "namaaset": "Edwin Edzuardy",
+            "alamat": "Jl.padat Karya Rt.007 Rw.002"
+        },
+        {
+            "noaset": "0010100426",
+            "namaaset": "Edwin Eko Marthin",
+            "alamat": "Jl. Tani Makmur Gg. Pemangkat Iii Rt .02/07"
+        },
+        {
+            "noaset": "0010500106",
+            "namaaset": "Edwin Santoso",
+            "alamat": "Jl Veteran Rt037 Rw005"
+        },
+        {
+            "noaset": "0010500142",
+            "namaaset": "Eka Darma",
+            "alamat": "Dusun Melati Rt.011 Rw.006"
+        },
+        {
+            "noaset": "0010500097",
+            "namaaset": "Eka Fitriyani",
+            "alamat": "Jl Kelam Tugu Beji Gg Keluarga Rt06 Rw09"
+        },
+        {
+            "noaset": "0010100127",
+            "namaaset": "Eka Yogi Prananda",
+            "alamat": "Jl Tabrani Ahmad Gg Berdikari 2 No 52"
+        },
+        {
+            "noaset": "0010200038",
+            "namaaset": "Eki Barlianta",
+            "alamat": "Jl.suka Damai No.38 Rt.5/ii"
+        },
+        {
+            "noaset": "0010200083",
+            "namaaset": "Eko Darmawan",
+            "alamat": "Jl Gusti M Taufik No256 Rt019 Rw006"
+        },
+        {
+            "noaset": "0010500015",
+            "namaaset": "Eko Sudaryanto",
+            "alamat": "Jl Tanjung Pura Gg Kamboja Baru Rt03 Rw06"
+        },
+        {
+            "noaset": "0010200017",
+            "namaaset": "Elisabeth.b.pessy",
+            "alamat": "Dusun Merpati Rt.ii Rw.i"
+        },
+        {
+            "noaset": "0010100111",
+            "namaaset": "Elvis",
+            "alamat": "Jl Demang Akub Rt 003 Rw.002"
+        },
+        {
+            "noaset": "0010100045",
+            "namaaset": "Emy Sudarmi",
+            "alamat": "Jl.a.yani Rt.32 Rw.xiii"
+        },
+        {
+            "noaset": "0010500189",
+            "namaaset": "Endang Susilawati",
+            "alamat": "Jl Pramuka Rt038 Rw001"
+        },
+        {
+            "noaset": "0010200044",
+            "namaaset": "Erhan",
+            "alamat": "Dusun Mawar Rt 036 Rw 018"
+        },
+        {
+            "noaset": "0010200011",
+            "namaaset": "Ersya Agustina Wijaya",
+            "alamat": "Jl Ra Kartini Gg Patora Kkel Sekip Lama"
+        },
+        {
+            "noaset": "0010500051",
+            "namaaset": "Ester Agustina Naibaho",
+            "alamat": "Jl Sebakuan Parinto Baru Rt003 Rw002"
+        },
+        {
+            "noaset": "0010500209",
+            "namaaset": "Ester Juniarti",
+            "alamat": "Dusun Pasrah Rt.001/rw.001"
+        },
+        {
+            "noaset": "0010500227",
+            "namaaset": "Ester Tauari Nauli",
+            "alamat": "Jl.yohana Godang Gg.sukses No.63"
+        },
+        {
+            "noaset": "0010100066",
+            "namaaset": "Eti Supriati",
+            "alamat": "Jl Veteran Rt 032 Rw 05"
+        },
+        {
+            "noaset": "0010500192",
+            "namaaset": "Euw Ket Siong",
+            "alamat": "Jl.p.natuna No. 42 E Rt.037.w.006"
+        },
+        {
+            "noaset": "0010500134",
+            "namaaset": "Eva Kartika",
+            "alamat": "Gg Gotong Royong No 12 A"
+        },
+        {
+            "noaset": "0010200246",
+            "namaaset": "Evi Susanti",
+            "alamat": "Jl.padi Komplek Cv Arli Rt.09 Rw.04"
+        },
+        {
+            "noaset": "0010200039",
+            "namaaset": "Ewaldus",
+            "alamat": "Dusun Monterado Rt.008 Rw.002"
+        },
+        {
+            "noaset": "0010500230",
+            "namaaset": "Fadliansyah",
+            "alamat": "Dusun Gaya Baru"
+        },
+        {
+            "noaset": "0010500055",
+            "namaaset": "Fardiansyah",
+            "alamat": "Jl Tanjung Raya Ii Komp Garden Mas 2 Rt004"
+        },
+        {
+            "noaset": "0010500101",
+            "namaaset": "Fariz Ramadhan",
+            "alamat": "Jl.ks.tubun Asrama Polri No.09 Rt.051/011"
+        },
+        {
+            "noaset": "0010100087",
+            "namaaset": "Fatimah",
+            "alamat": "Jl Jend Sudirman Gg Mungguk"
+        },
+        {
+            "noaset": "0010100058",
+            "namaaset": "Fitriadi",
+            "alamat": "Jl Pendidikan No.134"
+        },
+        {
+            "noaset": "0010500255",
+            "namaaset": "Frans Sinatra",
+            "alamat": "Jl Pertanian Gg Slamet"
+        },
+        {
+            "noaset": "0010500267",
+            "namaaset": "Fransisko Siallagan",
+            "alamat": "Sosor Galung"
+        },
+        {
+            "noaset": "0010500037",
+            "namaaset": "Ganda Tua",
+            "alamat": "Jl Alianyang Gg Suka Damai No 4d Rt 1 Rw 1"
+        },
+        {
+            "noaset": "0010200248",
+            "namaaset": "Ganda Tua",
+            "alamat": "Jl Alianyang Gg Suka Damai No 4d Rt 1 Rw 1"
+        },
+        {
+            "noaset": "0010100033",
+            "namaaset": "Gazali Satya Graha",
+            "alamat": "Jl.veteran Rt.017 Rw.04"
+        },
+        {
+            "noaset": "0010200102",
+            "namaaset": "Ghanis Satyagraha",
+            "alamat": "Jl.angkasa No.57 Rt.017 Rw.004"
+        },
+        {
+            "noaset": "0010200090",
+            "namaaset": "Giri Suwondo",
+            "alamat": "Jl Raden Kusno No11 Rt004 Rw014"
+        },
+        {
+            "noaset": "0010500204",
+            "namaaset": "Gunawan",
+            "alamat": "Jl.nyiur Gading Blok B 13 Rt.014.rw.004"
+        },
+        {
+            "noaset": "0010500027",
+            "namaaset": "Gusti Rizki Desniardi",
+            "alamat": "Jl Tani No141 Rt003 Rw001"
+        },
+        {
+            "noaset": "0010500009",
+            "namaaset": "Hairunisah",
+            "alamat": "Jl Rambutan No. B"
+        },
+        {
+            "noaset": "0010100004",
+            "namaaset": "Hamdani",
+            "alamat": "Jl.ratu Sepudak Rt.08/05"
+        },
+        {
+            "noaset": "0010100428",
+            "namaaset": "Hamdani",
+            "alamat": "Jalan Cendrawasih No 34 Rt Rw 03 I"
+        },
+        {
+            "noaset": "0010100109",
+            "namaaset": "Hamid",
+            "alamat": "Jl. Demang Akub Rt.21 Rw.11"
+        },
+        {
+            "noaset": "0010100060",
+            "namaaset": "Hamida",
+            "alamat": "Jl.mahad Usman Rt.12 Rw.06"
+        },
+        {
+            "noaset": "0010500259",
+            "namaaset": "Hanan Alfaizi",
+            "alamat": "Jl Siaga Rt003 Rw001"
+        },
+        {
+            "noaset": "0010100148",
+            "namaaset": "Handika Darmaputra",
+            "alamat": "Jl Alianyang Rt.001 Rw.01"
+        },
+        {
+            "noaset": "0010100088",
+            "namaaset": "Hang Tuah",
+            "alamat": "Jl. Hm Siradj Sood No.119"
+        },
+        {
+            "noaset": "0010500005",
+            "namaaset": "Hardiyanto Nugroho",
+            "alamat": "Jl Melati Raya I No. 112"
+        },
+        {
+            "noaset": "0010500238",
+            "namaaset": "Haries Santana",
+            "alamat": "Jl Siaga Rt 002 Rw 001"
+        },
+        {
+            "noaset": "0010100106",
+            "namaaset": "Hasman",
+            "alamat": "Jl Demang Akub"
+        },
+        {
+            "noaset": "0010100005",
+            "namaaset": "Hatimah",
+            "alamat": "Jl Pahlawan Rt 028 Rw 08"
+        },
+        {
+            "noaset": "0010500105",
+            "namaaset": "Helena Nordasari",
+            "alamat": "Jl.nusantara No.36 Rt.017 Rw.004"
+        },
+        {
+            "noaset": "0010500268",
+            "namaaset": "Hendrarianto",
+            "alamat": "Perum Bumi Ciwidey Indah Rt 3 Rw 19"
+        },
+        {
+            "noaset": "0010500053",
+            "namaaset": "Hendri",
+            "alamat": "Dusun Pelita Rt014 Rw007"
+        },
+        {
+            "noaset": "0010500026",
+            "namaaset": "Hendro Budiono",
+            "alamat": "Gang Perintis Rt005 Rw004"
+        },
+        {
+            "noaset": "0010200093",
+            "namaaset": "Herda Veronika",
+            "alamat": "Komplek Griya Bina Pratama Rt034 Rw007"
+        },
+        {
+            "noaset": "0010200015",
+            "namaaset": "Hermaidi",
+            "alamat": "Jl.sei.barito Rt.58/6"
+        },
+        {
+            "noaset": "0010500078",
+            "namaaset": "Hery Apriadi",
+            "alamat": "Jl.cempaka Gg.anggrek Rt.014 Rw.005"
+        },
+        {
+            "noaset": "0010500104",
+            "namaaset": "Hery Fabihansyah",
+            "alamat": "Jl.tani Rt.002 Rw.001"
+        },
+        {
+            "noaset": "0010100011",
+            "namaaset": "Hesti Fitriyanti",
+            "alamat": "Jl.ra.kartini No.16 Rt.020/07"
+        },
+        {
+            "noaset": "0010200035",
+            "namaaset": "I Made Karja Umbarajana",
+            "alamat": "Dsn Ledo Rt.02 Rw.i"
+        },
+        {
+            "noaset": "0010100044",
+            "namaaset": "Ibrahim",
+            "alamat": "Dusun Hilir Rt/rw.01/i"
+        },
+        {
+            "noaset": "0010100076",
+            "namaaset": "Ikhsan Sandriandi",
+            "alamat": "Jl Suhada Rt.013"
+        },
+        {
+            "noaset": "0010500246",
+            "namaaset": "Individu Halawa",
+            "alamat": "Jl Veteran No 41 Rt 035 Rw 005"
+        },
+        {
+            "noaset": "0010200238",
+            "namaaset": "Indra Juniansyah",
+            "alamat": "Jl.tanjung Raya Ii Gg.sami Sumping Rt.003 Rw.006"
+        },
+        {
+            "noaset": "0010100072",
+            "namaaset": "Indra Liong",
+            "alamat": "Jl Gn Kerinci Kel Pasiran Kec Skw Barat Pasiran Ke"
+        },
+        {
+            "noaset": "0010300005",
+            "namaaset": "Inus Ridho Musamto",
+            "alamat": "Jl.veteran No.17 Rt.034 Rw.04"
+        },
+        {
+            "noaset": "0010300006",
+            "namaaset": "Inus Ridho Musamto",
+            "alamat": "Jl.veteran No.17 Rt.034 Rw.04"
+        },
+        {
+            "noaset": "0010200072",
+            "namaaset": "Irma Yunita",
+            "alamat": "Jl Raya Semudun Dusun Permai Rt005 Rw003"
+        },
+        {
+            "noaset": "0010100113",
+            "namaaset": "Jaja",
+            "alamat": "Ds.karang Intan Rt 01 Rw 01"
+        },
+        {
+            "noaset": "0010100082",
+            "namaaset": "Jaman",
+            "alamat": "Jl Yos Sudarso Rt.10 Rw.iii"
+        },
+        {
+            "noaset": "0010500261",
+            "namaaset": "Jamson Purba",
+            "alamat": "Jl Pangeran Nata Kusuma Gg Melati No 28ab"
+        },
+        {
+            "noaset": "0010500136",
+            "namaaset": "Januarius Heri",
+            "alamat": "Dusun Sum Raya Rt001 Rw-"
+        },
+        {
+            "noaset": "0010100024",
+            "namaaset": "Jasmani Ijot",
+            "alamat": "Dsn Paso Kayu Rtv/imaruns"
+        },
+        {
+            "noaset": "0010100019",
+            "namaaset": "Jenki Himansyah",
+            "alamat": "Jl.pembangunan"
+        },
+        {
+            "noaset": "0010500018",
+            "namaaset": "Jerry Kurnia",
+            "alamat": "Jl H Rais A Rahman Gg Tiongkandang Rt 1 Rw 4"
+        },
+        {
+            "noaset": "0010500266",
+            "namaaset": "Jhon Perdinan Hutagalung",
+            "alamat": "Jl.sm.tsjafioeddin Gg.dwi Tung"
+        },
+        {
+            "noaset": "0010500129",
+            "namaaset": "Jimmy Chrstian Oktaf Saragih",
+            "alamat": "Jl.dahlia Perum Diamond Residence Rt.003 Rw.002"
+        },
+        {
+            "noaset": "0010200003",
+            "namaaset": "Johni Marcus",
+            "alamat": "Jalan Cendana Iii No.15 Rt.042/rw.06"
+        },
+        {
+            "noaset": "0010500021",
+            "namaaset": "Joko Suwondo",
+            "alamat": "Jl Veteran Rt34 Rw04"
+        },
+        {
+            "noaset": "0010100075",
+            "namaaset": "Julianti",
+            "alamat": "Jl Trisula Rt.012 Rw.04"
+        },
+        {
+            "noaset": "0010100080",
+            "namaaset": "Julianto",
+            "alamat": "Jl. Pramuka Rt.002 Rw.01"
+        },
+        {
+            "noaset": "0010500215",
+            "namaaset": "Julpriannoto",
+            "alamat": "Jl.semalar Rt.009 Rw.003"
+        },
+        {
+            "noaset": "0010500193",
+            "namaaset": "Jumaeri",
+            "alamat": "Jl Wonosari Rt036 Rw005"
+        },
+        {
+            "noaset": "0010100010",
+            "namaaset": "Jumiah",
+            "alamat": "Jl.sepakat No.35 Rt.016.rw.02"
+        },
+        {
+            "noaset": "0010100105",
+            "namaaset": "Juniartuty",
+            "alamat": "Jl. P Natuna No.49 Rt.18 Rw.vii"
+        },
+        {
+            "noaset": "0010500020",
+            "namaaset": "Jusfari",
+            "alamat": "Jl Jambu No 52"
+        },
+        {
+            "noaset": "0010200067",
+            "namaaset": "Kamal Pasha",
+            "alamat": "Dsn.kandasan Rt.006 Rw.005"
+        },
+        {
+            "noaset": "0010100435",
+            "namaaset": "Kang Hong Eng",
+            "alamat": "Jl P Natakusuma Gg Lestari No69"
+        },
+        {
+            "noaset": "0010100081",
+            "namaaset": "Khudriana",
+            "alamat": "Jl.komp.kowina Indah Blok B-2 Rt.014"
+        },
+        {
+            "noaset": "0010500023",
+            "namaaset": "Kiki Amelia",
+            "alamat": "Jl Sagatani Simajat Rt024 Rw005"
+        },
+        {
+            "noaset": "0010500148",
+            "namaaset": "Kiman Jambul",
+            "alamat": "Jl.subarang Rt.012 Rw.001"
+        },
+        {
+            "noaset": "0010100101",
+            "namaaset": "Kustini",
+            "alamat": "Jl Suhada Rt 05 Rw 01"
+        },
+        {
+            "noaset": "0010500253",
+            "namaaset": "Kwe Arbert",
+            "alamat": "Dusun Kenanga Rt.023/rw.012"
+        },
+        {
+            "noaset": "0010200054",
+            "namaaset": "Lades Sugoro",
+            "alamat": "Jl.btn Kowina Blok J-1 Rt.013 Rw.04"
+        },
+        {
+            "noaset": "0010500191",
+            "namaaset": "Lastri",
+            "alamat": "Dusun Seiring Rt005 Rw003"
+        },
+        {
+            "noaset": "0010500123",
+            "namaaset": "Leni Marlina",
+            "alamat": "Jl.veteran Rt.037 Rw.05"
+        },
+        {
+            "noaset": "0010100020",
+            "namaaset": "Lim Kim Djung",
+            "alamat": "Jl.p.natuna No.102 C Rt.21 Rw.viii"
+        },
+        {
+            "noaset": "0010100013",
+            "namaaset": "Lisnita Dewi",
+            "alamat": "Jl.cempaka Rt.013 Rw.05"
+        },
+        {
+            "noaset": "0010500152",
+            "namaaset": "Lulu Pribadi",
+            "alamat": "Jl.tirtasari Rt.045 Rw.010"
+        },
+        {
+            "noaset": "0010200239",
+            "namaaset": "Mardiyah",
+            "alamat": "Jl.sepakat Ii No.146 Rt.015 Rw.002"
+        },
+        {
+            "noaset": "0010500042",
+            "namaaset": "Mariyanto",
+            "alamat": "Jl Veteran No.26 Rt 33 Rw 4"
+        },
+        {
+            "noaset": "0010200081",
+            "namaaset": "Markum",
+            "alamat": "Btn Bhayangkara Permai Blok A4 Rt005 Rw014"
+        },
+        {
+            "noaset": "0010200091",
+            "namaaset": "Markum",
+            "alamat": "Btn Bhayangkara Permai Blok A4 Rt005 Rw014"
+        },
+        {
+            "noaset": "0010500073",
+            "namaaset": "Marlina Mayasari",
+            "alamat": "Jl Pramuka Gg Amat Syafir Rt006 Rw002"
+        },
+        {
+            "noaset": "0010200289",
+            "namaaset": "Marlinda",
+            "alamat": "Jl Raya Sebangkau Rt001 Rw013"
+        },
+        {
+            "noaset": "0010500178",
+            "namaaset": "Marlinda",
+            "alamat": "Jl Raya Sebangkau Rt001 Rw013"
+        },
+        {
+            "noaset": "0010200048",
+            "namaaset": "Marlini",
+            "alamat": "Setia Usaha 8/3"
+        },
+        {
+            "noaset": "0010200021",
+            "namaaset": "Martinus Alep",
+            "alamat": "Dsn.rantau Rt.i Rw.i"
+        },
+        {
+            "noaset": "0010200051",
+            "namaaset": "Maryati",
+            "alamat": "Jl Dr Rubini Rt.01 Rw.01"
+        },
+        {
+            "noaset": "0010100008",
+            "namaaset": "Marzuki",
+            "alamat": "Jalan Pramukart.2/rw.1"
+        },
+        {
+            "noaset": "0010200018",
+            "namaaset": "Masri",
+            "alamat": "Ds.pembangunan Rt.01 Rw.03"
+        },
+        {
+            "noaset": "0010100112",
+            "namaaset": "Maulana Marthin",
+            "alamat": "Jl Veteran Rt.033 Rw.004"
+        },
+        {
+            "noaset": "0010500122",
+            "namaaset": "Maulana Purnomo",
+            "alamat": "Jl Veteran Gg Djumani No89 Rt037 Rw005"
+        },
+        {
+            "noaset": "0010500239",
+            "namaaset": "Mawanto",
+            "alamat": "Jl.disbun Pakunam Rt.021 Rw.004"
+        },
+        {
+            "noaset": "0010100071",
+            "namaaset": "Mawardi",
+            "alamat": "Jl.veteran Rt.036/05"
+        },
+        {
+            "noaset": "0010200041",
+            "namaaset": "Mawazi",
+            "alamat": "Jl.cendana Rt.042 Rw.06"
+        },
+        {
+            "noaset": "0010200117",
+            "namaaset": "Maxwell H Hutapea",
+            "alamat": "Jl.stadion Gg. Mutiara Rt.004.rw.002"
+        },
+        {
+            "noaset": "0010500185",
+            "namaaset": "May Lamah",
+            "alamat": "Jl Raya Galang"
+        },
+        {
+            "noaset": "0010500201",
+            "namaaset": "Merisa",
+            "alamat": "Jl.jend.sudirman Gg.ikhlas Rt.007 Rw.003"
+        },
+        {
+            "noaset": "0010500262",
+            "namaaset": "Mernawati",
+            "alamat": "Jln. Tanjung Batu Dalam No. 51 Rt 14 Rw 3"
+        },
+        {
+            "noaset": "0010100050",
+            "namaaset": "Miauw Hian Alias Arhianto",
+            "alamat": "Jl.hra.rachman Rt.003/004"
+        },
+        {
+            "noaset": "0010500270",
+            "namaaset": "Minda Riyani",
+            "alamat": "Jl Semangka No 118 Rt058 Rw 006"
+        },
+        {
+            "noaset": "0010200187",
+            "namaaset": "Mini Astriani",
+            "alamat": "Perum Sumput Asri Blok Bx 03"
+        },
+        {
+            "noaset": "0010500103",
+            "namaaset": "Mismadi",
+            "alamat": "Dusun Keramat 1 Gg.kantor Rt.011 Rw.01"
+        },
+        {
+            "noaset": "0010500034",
+            "namaaset": "Moh Jailani",
+            "alamat": "Jl Raya Skw-bky Rt004 Rw.002"
+        },
+        {
+            "noaset": "0010500116",
+            "namaaset": "Muchlis",
+            "alamat": "Dusun Guntur Rt.001 Rw.001"
+        },
+        {
+            "noaset": "0010500127",
+            "namaaset": "Muhamad Iqbal Ali",
+            "alamat": "Baning Jaya Rt.005 Rw.008"
+        },
+        {
+            "noaset": "0010500241",
+            "namaaset": "Muhamad Novi Suhendra",
+            "alamat": "Jl.kesehatan Rt.001/rw.002"
+        },
+        {
+            "noaset": "0010100086",
+            "namaaset": "Muhammad Sumarno",
+            "alamat": "Jalan Siaga Rt Rw 05 01"
+        },
+        {
+            "noaset": "0010200006",
+            "namaaset": "Muhammad Tahir",
+            "alamat": "Jl Durian No75 Rt40/13kel Roban"
+        },
+        {
+            "noaset": "0010500096",
+            "namaaset": "Mujiono",
+            "alamat": "Gg Kapuas Arang Limbung Rt05 Rw07"
+        },
+        {
+            "noaset": "0010200020",
+            "namaaset": "Mulyadi",
+            "alamat": "Jl.jend.sudirman No.48 Rt.011 Rw.03"
+        },
+        {
+            "noaset": "0010200069",
+            "namaaset": "Muriadi",
+            "alamat": "Nek Cateng"
+        },
+        {
+            "noaset": "0010200269",
+            "namaaset": "Nadia",
+            "alamat": "Jl.pahlawan Rt.026 Rw.009"
+        },
+        {
+            "noaset": "0010500203",
+            "namaaset": "Narkim Tangguna",
+            "alamat": "Dsn.bahagia Rt.001 Rw.001"
+        },
+        {
+            "noaset": "0010100073",
+            "namaaset": "Nelhuda",
+            "alamat": "Jl.jendral Sudirman Rt.018 Rw.004"
+        },
+        {
+            "noaset": "0010500198",
+            "namaaset": "Nendo Sinaga",
+            "alamat": "Jl.tvri Dusun Tunas Baru Rt.008 Rw.004"
+        },
+        {
+            "noaset": "0010200235",
+            "namaaset": "Niarti",
+            "alamat": "Dusun Perigi Maram Rt 008 Rw 0002"
+        },
+        {
+            "noaset": "0010200245",
+            "namaaset": "Noor Achadin",
+            "alamat": "Jl.jenderal Sudirman Rt.007 Rw.03"
+        },
+        {
+            "noaset": "0010500045",
+            "namaaset": "Noor Achadin",
+            "alamat": "Jl.jenderal Sudirman Rt.007 Rw.03"
+        },
+        {
+            "noaset": "0010100009",
+            "namaaset": "Norianus Rukiyanto",
+            "alamat": "Jl.kridasana Gg.karya Ii No.79 Rt.28/xio"
+        },
+        {
+            "noaset": "0010200074",
+            "namaaset": "Norita Mulyasari",
+            "alamat": "Jl Adiwijaya Rt001 Rw001"
+        },
+        {
+            "noaset": "0010500168",
+            "namaaset": "Novi Irwandi",
+            "alamat": "Jl.pak Kasih Gg Lembah Murai 1 Rt.002 Rw.009"
+        },
+        {
+            "noaset": "0010500190",
+            "namaaset": "Novia Juvita",
+            "alamat": "Jl.tani Gg.famili No.111 Rt.004 Rw.001"
+        },
+        {
+            "noaset": "0010500254",
+            "namaaset": "Novitasari",
+            "alamat": "Jl Semai Rt002 Rw002"
+        },
+        {
+            "noaset": "0010200061",
+            "namaaset": "Nuraini",
+            "alamat": "Ds. Nelayan Rt 03/01"
+        },
+        {
+            "noaset": "0010100436",
+            "namaaset": "Nurhayati",
+            "alamat": "Jl Danau Sentarum Komp Green"
+        },
+        {
+            "noaset": "0010200290",
+            "namaaset": "Nurmarianti",
+            "alamat": "Dsn Teluk Banjar Rt04 Rw06"
+        },
+        {
+            "noaset": "0010500135",
+            "namaaset": "Nurmarianti",
+            "alamat": "Dsn Teluk Banjar Rt04 Rw06"
+        },
+        {
+            "noaset": "0010500046",
+            "namaaset": "Nursalim",
+            "alamat": "Jl Siaga Gg Sepakat 2 No81 Rt015 Rw002"
+        },
+        {
+            "noaset": "0010200026",
+            "namaaset": "Octa Fitriana",
+            "alamat": "Jalan Raden Ajeng Kartini No 17 Rt Rw 020 07"
+        },
+        {
+            "noaset": "0010500216",
+            "namaaset": "Okinama",
+            "alamat": "Jl. Mahadi Usman Rt.014.rw.007"
+        },
+        {
+            "noaset": "0010100085",
+            "namaaset": "Parida",
+            "alamat": "Komplek Pasar Beringin"
+        },
+        {
+            "noaset": "0010200019",
+            "namaaset": "Paulina Agatha",
+            "alamat": "Ds.gare Rt.7 Rw.4"
+        },
+        {
+            "noaset": "0010200016",
+            "namaaset": "Pendi",
+            "alamat": "Jl.tani Gg.meranti Ii Rt.34 Rw.xiv"
+        },
+        {
+            "noaset": "0010500251",
+            "namaaset": "Pepen Efendi",
+            "alamat": "Jl.gunung Poteng No.36 Rt.041 Rw.015"
+        },
+        {
+            "noaset": "0010500245",
+            "namaaset": "Pika Sari",
+            "alamat": "Dusun Ledo Rt 01 Rw 01"
+        },
+        {
+            "noaset": "0010500231",
+            "namaaset": "Qoid Abrar Zuhdi",
+            "alamat": "Gg Sapta Marga Jalur Ii No 7 Rt 004 Rw 024"
+        },
+        {
+            "noaset": "0010100025",
+            "namaaset": "Rachmansyah",
+            "alamat": "Jl.siaga Rt.016 Rw.02"
+        },
+        {
+            "noaset": "0010500182",
+            "namaaset": "Raden Adri Akbar Noer Taufiq",
+            "alamat": "Jl.hr.a.rahman Gg.keluarga No.53 Rt.001/007"
+        },
+        {
+            "noaset": "0010500095",
+            "namaaset": "Radiansyah",
+            "alamat": "Jl.raya Pelita 3 Punggur Kecil Rt.34 Rw.11"
+        },
+        {
+            "noaset": "0010100083",
+            "namaaset": "Ramalan Yusuf",
+            "alamat": "Jl Hm.siradj Sood No.119"
+        },
+        {
+            "noaset": "0010500061",
+            "namaaset": "Ratnawati",
+            "alamat": "Jl Alianyang Rt043 Rw016"
+        },
+        {
+            "noaset": "0010500217",
+            "namaaset": "Reallyazika Jeanne D Arc Hadasa",
+            "alamat": "Jl.komyos Sudarso Gg Tengkawan"
+        },
+        {
+            "noaset": "0010200005",
+            "namaaset": "Renny",
+            "alamat": "Gg.tengkawang Rt.002 Rw.020"
+        },
+        {
+            "noaset": "0010500039",
+            "namaaset": "Revri Ibnu Casmito",
+            "alamat": "Jl Veteran Gg.anugerah No21 Rt037 Rw005"
+        },
+        {
+            "noaset": "0010500236",
+            "namaaset": "Reza Pahlevi",
+            "alamat": "Jl.sepakat Rt.014 Rw.002"
+        },
+        {
+            "noaset": "0010500032",
+            "namaaset": "Reza Pratama Budianto",
+            "alamat": "Jl Suka Ramai No22 Rt007 Rw002"
+        },
+        {
+            "noaset": "0010500140",
+            "namaaset": "Ria Fusfadamayanti",
+            "alamat": "Jln Gunung Sari No 80 Gang Indah Sari Rt054 Rw013"
+        },
+        {
+            "noaset": "0010500041",
+            "namaaset": "Rian Defriansyah",
+            "alamat": "Dusun Bayur Rt.001 Rw.002"
+        },
+        {
+            "noaset": "0010500199",
+            "namaaset": "Rianto",
+            "alamat": "Dusun Pimpinan Rt.002 Rw.001"
+        },
+        {
+            "noaset": "0010500197",
+            "namaaset": "Riawati",
+            "alamat": "Jl.veteran Gg Awang Sani Rt.037.rw.005"
+        },
+        {
+            "noaset": "0010500260",
+            "namaaset": "Rikardo Purba",
+            "alamat": "Jln. Pramuka Gg. Aliuddin Rt 11 Rw 4"
+        },
+        {
+            "noaset": "0010500235",
+            "namaaset": "Riki Krisman Zebua",
+            "alamat": "Jl Khaltulistiwa Asmil Brigif Rt 15 Rw 5"
+        },
+        {
+            "noaset": "0010100059",
+            "namaaset": "Rini Antika",
+            "alamat": "Jl.bukit Tiga Rt.024 Rw.07"
+        },
+        {
+            "noaset": "0010200094",
+            "namaaset": "Rini Mulliyani",
+            "alamat": "Jl Pangsuma Rt028 Rw008"
+        },
+        {
+            "noaset": "0010500102",
+            "namaaset": "Rissa Rosita",
+            "alamat": "Namtet Rt.001 Rw.002"
+        },
+        {
+            "noaset": "0010500256",
+            "namaaset": "Ristaningsih",
+            "alamat": "Jl.satria No.161 Rt.011 Rw.004"
+        },
+        {
+            "noaset": "0010100049",
+            "namaaset": "Rita Iriana",
+            "alamat": "Jl.gn.sari No.72 Rt.54 Rw.xiii"
+        },
+        {
+            "noaset": "0010500257",
+            "namaaset": "Riza Susanti",
+            "alamat": "Jl.mawar Rt.009.rw.003"
+        },
+        {
+            "noaset": "0010100036",
+            "namaaset": "Rohana",
+            "alamat": "Jl.veteran No. 56 Rt.037 Rw.05"
+        },
+        {
+            "noaset": "0010500160",
+            "namaaset": "Roma Dani",
+            "alamat": "Perum Bali Asri Blok F.14 Rt.003 Rw.032"
+        },
+        {
+            "noaset": "0010500161",
+            "namaaset": "Roma Dani",
+            "alamat": "Perum Bali Asri Blok F.14 Rt.003 Rw.032"
+        },
+        {
+            "noaset": "0010500172",
+            "namaaset": "Ronny Pratama",
+            "alamat": "Sungai Barito 63 Perumnas Rt 58/06,058/006"
+        },
+        {
+            "noaset": "0010500131",
+            "namaaset": "Rosilawati",
+            "alamat": "Sedau Pasar Rt033 Rw006"
+        },
+        {
+            "noaset": "0010500087",
+            "namaaset": "Rosilawati",
+            "alamat": "Sedau Pasar Rt033 Rw006"
+        },
+        {
+            "noaset": "0010500187",
+            "namaaset": "Rudi Haryanto",
+            "alamat": "Jl.m.suni No.42 Rt.019 Rw.004"
+        },
+        {
+            "noaset": "0010200032",
+            "namaaset": "Rudiyono",
+            "alamat": "Jl.durian Rt.040 Rw.13"
+        },
+        {
+            "noaset": "0010100447",
+            "namaaset": "Rudy Hartono",
+            "alamat": "Jl.jend Sudirman Rt.013 Rw.002"
+        },
+        {
+            "noaset": "0010200009",
+            "namaaset": "Rukiah",
+            "alamat": "Jl Sagatani Pakunam Rt21 Rw04"
+        },
+        {
+            "noaset": "0010100053",
+            "namaaset": "Rumiani",
+            "alamat": "Jl Cendrawasih No 27"
+        },
+        {
+            "noaset": "0010100037",
+            "namaaset": "Rusmini",
+            "alamat": "Jl.burhani No.63 Rt.25 Rw.x"
+        },
+        {
+            "noaset": "0010500044",
+            "namaaset": "Ryani Oktari",
+            "alamat": "Jl Bhineka Bhakti No29 Rt05 Rw01"
+        },
+        {
+            "noaset": "0010500237",
+            "namaaset": "Safaat",
+            "alamat": "Jl Pembangunan Rt 04 Rw 004"
+        },
+        {
+            "noaset": "0010500248",
+            "namaaset": "Safrina Silviliana",
+            "alamat": "Jl Jendral Sudirman Rt 012 Rw 003"
+        },
+        {
+            "noaset": "0010200084",
+            "namaaset": "Salimi",
+            "alamat": "Btn Bhayangkara Blok F1 Rt003 Rw014"
+        },
+        {
+            "noaset": "0010200276",
+            "namaaset": "Samiran",
+            "alamat": "Jln. Dr Soetomo No 10 Rt 34 Rw14"
+        },
+        {
+            "noaset": "0010100057",
+            "namaaset": "Samuel Suwito",
+            "alamat": "Griya Citra Asri Rm4/5"
+        },
+        {
+            "noaset": "0010200275",
+            "namaaset": "Sandri",
+            "alamat": "Dusun Cempaka Rt.002 Rw.006"
+        },
+        {
+            "noaset": "0010200267",
+            "namaaset": "Sanilam Satok",
+            "alamat": "Jl.padi Rt.009 Rw.004"
+        },
+        {
+            "noaset": "0010200273",
+            "namaaset": "Sanita",
+            "alamat": "Jl.hansip Rt.006 Rw.002"
+        },
+        {
+            "noaset": "0010100098",
+            "namaaset": "Santi",
+            "alamat": "Jl Bukit Tiga Rt 025 Rw 07"
+        },
+        {
+            "noaset": "0010100028",
+            "namaaset": "Saprina Silviliana",
+            "alamat": "Jl. Alianyang No.11 Rt.42/xv"
+        },
+        {
+            "noaset": "0010100077",
+            "namaaset": "Sarmi",
+            "alamat": "Jl Pasar Turi Dalam"
+        },
+        {
+            "noaset": "0010500065",
+            "namaaset": "Sasmiani",
+            "alamat": "Unit Pemukiman Trans Sp 2 Rt008 Rw004"
+        },
+        {
+            "noaset": "0010500088",
+            "namaaset": "Satriyo Supratomo",
+            "alamat": "Jl Damar Laut V No204 Rt006 Rw014"
+        },
+        {
+            "noaset": "0010100054",
+            "namaaset": "Sau Khiong",
+            "alamat": "Dsn Teluk Suak Rt 02 Rw 04"
+        },
+        {
+            "noaset": "0010500050",
+            "namaaset": "Se Tjhoi",
+            "alamat": "Jl Yos Sudarso Gg Muksin No3 Rt022 Rw008"
+        },
+        {
+            "noaset": "0010200274",
+            "namaaset": "Seferiano",
+            "alamat": "Jl.ratu Sepudak No.07 Rt.006 Rw.001"
+        },
+        {
+            "noaset": "0010500001",
+            "namaaset": "Semi Mei Yando",
+            "alamat": "Jl Cendana 1 No 60 Perumnas"
+        },
+        {
+            "noaset": "0010100440",
+            "namaaset": "Shella Ameilia",
+            "alamat": "Jl Alianyang No.10 Rt003 Rw001"
+        },
+        {
+            "noaset": "0010500003",
+            "namaaset": "Sholihin",
+            "alamat": "Jl Raya Pajintan"
+        },
+        {
+            "noaset": "0010500126",
+            "namaaset": "Singkir Heri Setyadi",
+            "alamat": "Dusun Ramin Jadi Rt.009 Rw.003"
+        },
+        {
+            "noaset": "0010500010",
+            "namaaset": "Siti Kismiyatun",
+            "alamat": "Jl Gunung Sari 61 B"
+        },
+        {
+            "noaset": "0010200272",
+            "namaaset": "Siti Nurjannah",
+            "alamat": "Jl.wonosari Komp Arta 4 Rt.rw.036/005"
+        },
+        {
+            "noaset": "0010200270",
+            "namaaset": "Siti Nurlita",
+            "alamat": "Jl.hansip Rt.003 Rw.001"
+        },
+        {
+            "noaset": "0010100012",
+            "namaaset": "Siti Ramlah",
+            "alamat": "Jl Gn Merapi No.05 Rt 29/xii"
+        },
+        {
+            "noaset": "0010500120",
+            "namaaset": "Siti Zuliana",
+            "alamat": "Gg.kapuas Arang Limbung Rt.005 Rw.007"
+        },
+        {
+            "noaset": "0010200057",
+            "namaaset": "Soepini",
+            "alamat": "Jl.kembang Kuning Kulon Rt.006 Rw.006"
+        },
+        {
+            "noaset": "0010200113",
+            "namaaset": "Soni Mandira",
+            "alamat": "Jl.h.rais A.rahman"
+        },
+        {
+            "noaset": "0010500264",
+            "namaaset": "Sri Indah",
+            "alamat": "Jl Pramuka No 22 Rt 003 Rw 001"
+        },
+        {
+            "noaset": "0010100030",
+            "namaaset": "Sri Juharti",
+            "alamat": "Jl.r.a.kartini Rt.019 Rw.07"
+        },
+        {
+            "noaset": "0010500272",
+            "namaaset": "Sri Mawarni",
+            "alamat": "Jln.pramuka Rt.001/rw.001"
+        },
+        {
+            "noaset": "0010500222",
+            "namaaset": "Sri Purwanti",
+            "alamat": "Jl.salak No.91 Rt.038.rw.006"
+        },
+        {
+            "noaset": "0010100016",
+            "namaaset": "Suaida",
+            "alamat": "Jl Salak Rt38 06 Kel Roban Skw Tngh"
+        },
+        {
+            "noaset": "0010100437",
+            "namaaset": "Sudarminto",
+            "alamat": "Ds.gare Rt.7/4 Sijangkung"
+        },
+        {
+            "noaset": "0010200055",
+            "namaaset": "Sudarti",
+            "alamat": "Dsn.setia Usaha Rt.08 Rw.03"
+        },
+        {
+            "noaset": "0010100089",
+            "namaaset": "Sufianty",
+            "alamat": "Gg. Nuri No.10 Rt.002 Rw.001"
+        },
+        {
+            "noaset": "0010500059",
+            "namaaset": "Sugeng Suroso",
+            "alamat": "Jl Manggis Rt038 Rw006"
+        },
+        {
+            "noaset": "0010500139",
+            "namaaset": "Sugeng Suroso",
+            "alamat": "Jl Manggis Rt038 Rw006"
+        },
+        {
+            "noaset": "0010500085",
+            "namaaset": "Sugiono Asip",
+            "alamat": "Dusun Paradis Rt001 Rw001"
+        },
+        {
+            "noaset": "0010500049",
+            "namaaset": "Sujarwo",
+            "alamat": "Jl Mawar Rt009 Rw003"
+        },
+        {
+            "noaset": "0010100116",
+            "namaaset": "Sukardi",
+            "alamat": "Jl.veteran No.15 Rt.036 Rw.05"
+        },
+        {
+            "noaset": "0010100029",
+            "namaaset": "Sukardi",
+            "alamat": "Jl Veteran No 15"
+        },
+        {
+            "noaset": "0010100079",
+            "namaaset": "Sukardi",
+            "alamat": "Jl Ratu Sepudak No.07 Rt.015"
+        },
+        {
+            "noaset": "0010100032",
+            "namaaset": "Sulaiman Saad",
+            "alamat": "Jend Sudirman Rt 12/03"
+        },
+        {
+            "noaset": "0010100103",
+            "namaaset": "Sulastri",
+            "alamat": "Jl.demang Akub Rt.022 Rw.011"
+        },
+        {
+            "noaset": "0010200058",
+            "namaaset": "Sumardi",
+            "alamat": "Kembang Kuning Kulon Rt.006 Rw.06"
+        },
+        {
+            "noaset": "0010500218",
+            "namaaset": "Suminarsih",
+            "alamat": "Jl.bengkayang Gg.family Rt.004 Rw.002"
+        },
+        {
+            "noaset": "0010200099",
+            "namaaset": "Sundiyah",
+            "alamat": "Jl Veteran No.38 Rt033 Rw04"
+        },
+        {
+            "noaset": "0010100006",
+            "namaaset": "Suparni",
+            "alamat": "Jl Cendana Rt. 043 Rw 06"
+        },
+        {
+            "noaset": "0010200266",
+            "namaaset": "Supriyadi",
+            "alamat": "Asmil Yonif 641/bru Rt.014 Rw.005"
+        },
+        {
+            "noaset": "0010200007",
+            "namaaset": "Suriansyah",
+            "alamat": "Dusun Merpati Rt.ii Rw.i"
+        },
+        {
+            "noaset": "0010100023",
+            "namaaset": "Suryani",
+            "alamat": "Ds.tg.batu Harapan Rt.05 Rw.03"
+        },
+        {
+            "noaset": "0010100055",
+            "namaaset": "Suryanti",
+            "alamat": "Jl.sagatani Gare Rt.13 Rw.03"
+        },
+        {
+            "noaset": "0010100003",
+            "namaaset": "Susantariana Mastari",
+            "alamat": "Jl Pelangi No 24 Rt 19/iv"
+        },
+        {
+            "noaset": "0010100021",
+            "namaaset": "Susanto",
+            "alamat": "Jalan Gm Situt Nomor 03 Rt 12a Rw 5 Singkawang"
+        },
+        {
+            "noaset": "0010200265",
+            "namaaset": "Susiana",
+            "alamat": "Jl.tani No.104 Rt.003 Rw.001"
+        },
+        {
+            "noaset": "0010500054",
+            "namaaset": "Susilowati",
+            "alamat": "Jl Kowina Indah Blok J No2 Rt013 Rw004"
+        },
+        {
+            "noaset": "0010500138",
+            "namaaset": "Sustrya",
+            "alamat": "Dusun Anggrek Rt.007 Rw.003"
+        },
+        {
+            "noaset": "0010200030",
+            "namaaset": "Sutrisno",
+            "alamat": "Jl Pembangunan Gg Bakar No 8 Rt004 Rw 008p"
+        },
+        {
+            "noaset": "0010500194",
+            "namaaset": "Suyono",
+            "alamat": "Dusun Pacong"
+        },
+        {
+            "noaset": "0010100439",
+            "namaaset": "Syaifullah",
+            "alamat": "Dusun Marga Utama Rt.002 Rw.001"
+        },
+        {
+            "noaset": "0010200047",
+            "namaaset": "Syamsiar",
+            "alamat": "Jl Ratu Sepudak"
+        },
+        {
+            "noaset": "0010500098",
+            "namaaset": "Takbir Jaelani",
+            "alamat": "Gg.melati Rt.003 Rw.012"
+        },
+        {
+            "noaset": "0010200049",
+            "namaaset": "Tarmizi",
+            "alamat": "Dusun Teluk Suak Rt 2 Rw 5"
+        },
+        {
+            "noaset": "0010500180",
+            "namaaset": "Teguh Hendra Gunawan Maitimu",
+            "alamat": "Dusun Jawa"
+        },
+        {
+            "noaset": "0010200114",
+            "namaaset": "Tion",
+            "alamat": "Jl.veteran Gg.bhakti Rt.037 Rw.005"
+        },
+        {
+            "noaset": "0010200115",
+            "namaaset": "Tion",
+            "alamat": "Jl.veteran Gg.bhakti Rt.037 Rw.005"
+        },
+        {
+            "noaset": "0010500004",
+            "namaaset": "Titik Supriati",
+            "alamat": "Jl Pulau Belitung Rt 012"
+        },
+        {
+            "noaset": "0010100015",
+            "namaaset": "Tjie Nga Nga",
+            "alamat": "Jl.ratu Sepudak Rt.01 Rw.1"
+        },
+        {
+            "noaset": "0010100031",
+            "namaaset": "Tjong Bui Hian",
+            "alamat": "Jl.kulor Rt.11 Rw.04"
+        },
+        {
+            "noaset": "0010100034",
+            "namaaset": "Tju Fui Sian",
+            "alamat": "Jl.pasar Turi Dalam Rt.11 Rw.iv"
+        },
+        {
+            "noaset": "0010500008",
+            "namaaset": "Tju Lily",
+            "alamat": "Jl Pahlawan Rt 020 Rw 009"
+        },
+        {
+            "noaset": "0010100130",
+            "namaaset": "Tonas",
+            "alamat": "Jl Dr Rubini Rt 020 Rw 007"
+        },
+        {
+            "noaset": "0010500133",
+            "namaaset": "Toni",
+            "alamat": "Jl.jendral Sudirman Gg Baru Rt.003 Rw.003"
+        },
+        {
+            "noaset": "0010500112",
+            "namaaset": "Tony",
+            "alamat": "Padang Pasir Rt.018 Rw.004"
+        },
+        {
+            "noaset": "0010500258",
+            "namaaset": "Tri Wisnu Herling",
+            "alamat": "Jl Silva Gunung Poteng 001/001"
+        },
+        {
+            "noaset": "0010500083",
+            "namaaset": "Triromadani",
+            "alamat": "Jl Siaga Gg Utama No100 Rt015 Rw002"
+        },
+        {
+            "noaset": "0010100065",
+            "namaaset": "Tugiyanto",
+            "alamat": "Gang Tama No.103 Rt.027 Rw.007"
+        },
+        {
+            "noaset": "0010100056",
+            "namaaset": "Tuti Herawati",
+            "alamat": "Jl Bambang Ismoyo No 14"
+        },
+        {
+            "noaset": "0010500228",
+            "namaaset": "Tutut Kartikasari",
+            "alamat": "Batu Jajar Indah Ii Blok B2"
+        },
+        {
+            "noaset": "0010100150",
+            "namaaset": "Umar",
+            "alamat": "Jl.rahman Gg.tiongkandang Iii Rt.003 Rw.004"
+        },
+        {
+            "noaset": "0010500119",
+            "namaaset": "Uray Hadi Syamsurizal",
+            "alamat": "Gg.partisipasi No.38 Rt.045 Rw.019"
+        },
+        {
+            "noaset": "0010200249",
+            "namaaset": "Uray Hadi Syamsurizal",
+            "alamat": "Gg.partisipasi No.38 Rt.045 Rw.019"
+        },
+        {
+            "noaset": "0010100051",
+            "namaaset": "Uray Misra",
+            "alamat": "Jl.jambu Rt.060 Rw.13"
+        },
+        {
+            "noaset": "0010200013",
+            "namaaset": "Uray Muhammad Asikin",
+            "alamat": "Jl Jambu Blok G No17 Rt60rw03 Kel Roban Skw Tengah"
+        },
+        {
+            "noaset": "0010100042",
+            "namaaset": "Uray Muthia Hariyanti",
+            "alamat": "Jl.veteran Rt.036 Rw.05"
+        },
+        {
+            "noaset": "0010100041",
+            "namaaset": "Uray Wawan Kurniawan",
+            "alamat": "Jl.ra.kartini Rt.020 Rw.07"
+        },
+        {
+            "noaset": "0010500057",
+            "namaaset": "Veranti",
+            "alamat": "Jl Suhada Rt001 Rw001"
+        },
+        {
+            "noaset": "0010200065",
+            "namaaset": "Vonny Apriyanti",
+            "alamat": "Jl Karang Intan Rt.07 Rw.02"
+        },
+        {
+            "noaset": "0010100090",
+            "namaaset": "Wahyudi",
+            "alamat": "Jl Demang Akub Rt 002"
+        },
+        {
+            "noaset": "0010100026",
+            "namaaset": "Wahyudi Muhammad Sai",
+            "alamat": "Jl.nenas No.55 Rt.059 Rw.13"
+        },
+        {
+            "noaset": "0010100038",
+            "namaaset": "Wani",
+            "alamat": "Jl.alianyang Rt 002/01"
+        },
+        {
+            "noaset": "0010500094",
+            "namaaset": "Warih Anjari",
+            "alamat": "Jl Jend Sudirman Rt018 Rw04"
+        },
+        {
+            "noaset": "0010100142",
+            "namaaset": "Wawan",
+            "alamat": "Dusun Sentagi Luar Rt.003 Rw.002"
+        },
+        {
+            "noaset": "0010100022",
+            "namaaset": "Wawan Darmawan",
+            "alamat": "Jl Alianyang No 33"
+        },
+        {
+            "noaset": "0010500229",
+            "namaaset": "Wawan Karmawan",
+            "alamat": "Jl Ra Kartini No 12 Singkawang Tengah"
+        },
+        {
+            "noaset": "0010200010",
+            "namaaset": "Welly Sarapil",
+            "alamat": "Jl Bukit Barisan No.14"
+        },
+        {
+            "noaset": "0010500099",
+            "namaaset": "Wendy Yandika",
+            "alamat": "Jl.ratu Sepudak Rt.006 Rw.001"
+        },
+        {
+            "noaset": "0010500108",
+            "namaaset": "Yakub",
+            "alamat": "Jl.ra.kartini Rt.012 Rw.004"
+        },
+        {
+            "noaset": "0010500213",
+            "namaaset": "Yanti Wulandari",
+            "alamat": "Dusun Kelampai Rt.003.rw.001"
+        },
+        {
+            "noaset": "0010100007",
+            "namaaset": "Yohanes Asau",
+            "alamat": "Dusun Babane Rt.ii/ Rw I"
+        },
+        {
+            "noaset": "0010100062",
+            "namaaset": "Yohanes Au",
+            "alamat": "Ds.benawa Bhakti Rt.01/01"
+        },
+        {
+            "noaset": "0010500062",
+            "namaaset": "Yosep Tekel",
+            "alamat": "Jl Swadaya Gg Ampor No74 Rt001 Rw001"
+        },
+        {
+            "noaset": "0010200108",
+            "namaaset": "Yosi Januarsi",
+            "alamat": "Jl Bardannadi Rt010 Rw003"
+        },
+        {
+            "noaset": "0010500047",
+            "namaaset": "Yudhistira",
+            "alamat": "Dusun Turusan Rt004 Rw002"
+        },
+        {
+            "noaset": "0010500183",
+            "namaaset": "Yuli Hengky",
+            "alamat": "Jl Bambang Ismoyo Gg Cengkeh"
+        },
+        {
+            "noaset": "0010200040",
+            "namaaset": "Yunie Anggreini",
+            "alamat": "Jl. Yohana Godang No. 2 Rt. 029"
+        },
+        {
+            "noaset": "0010500232",
+            "namaaset": "Yuspita",
+            "alamat": "Dusun Melayu Baru Rt003 Rw002"
+        },
+        {
+            "noaset": "0010200001",
+            "namaaset": "Zainal Arifin",
+            "alamat": "Jl.gudang Tama Rt.031 Rw.08"
+        },
+        {
+            "noaset": "0010200077",
+            "namaaset": "Zainuddin",
+            "alamat": "Btn Bhayangkara Blok J2 Rt005 Rw014"
+        },
+        {
+            "noaset": "0010200063",
+            "namaaset": "Zaitin Noor",
+            "alamat": "Singkawang"
+        },
+        {
+            "noaset": "0010500150",
+            "namaaset": "Zakaria Yuharsa",
+            "alamat": "Jl Cendrawasih No 24"
+        },
+        {
+            "noaset": "0010500052",
+            "namaaset": "Zhuhri Agustiawan",
+            "alamat": "Jl Sahwa No64 Rt005 Rw002"
+        },
+        {
+            "noaset": "0010200111",
+            "namaaset": "Zulfan Effendi",
+            "alamat": "Jl Mawar No 12"
+        },
+        {
+            "noaset": "0010200112",
+            "namaaset": "Zulfan Effendi",
+            "alamat": "Jl Mawar No 12"
+        },
+        {
+            "noaset": "0010500091",
+            "namaaset": "Zulfiani",
+            "alamat": "Jl Ismita Rt.002 Rw.008"
+        },
+        {
+            "noaset": "0010200053",
+            "namaaset": "Zulfikar",
+            "alamat": "Jl.veteran Gg.mesjid Rt.036 Rw.05"
+        },
+        {
+            "noaset": "0010100110",
+            "namaaset": "Zulfikar",
+            "alamat": "Jl Demang Akub Rt 010 Rw 005"
+        },
+        {
+            "noaset": "0010100040",
+            "namaaset": "Zulkifli",
+            "alamat": "Jl.lembah Murai"
+        }
+    ]
+}
